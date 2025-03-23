@@ -1,0 +1,7 @@
+name: Thirsty
+version: '1.0-SNAPSHOT'
+main: org.tools.thirsty.Thirsty
+api-version: '1.21'
+commands:
+  thirsty:
+    description: "플레이어의 갈증 정도를 설정합니다."
